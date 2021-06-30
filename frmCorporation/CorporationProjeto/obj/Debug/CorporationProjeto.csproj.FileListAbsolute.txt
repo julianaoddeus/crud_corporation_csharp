@@ -1,0 +1,12 @@
+C:\Users\julia\source\repos\frmCorporation\CorporationProjeto\bin\Debug\CorporationProjeto.exe.config
+C:\Users\julia\source\repos\frmCorporation\CorporationProjeto\bin\Debug\CorporationProjeto.exe
+C:\Users\julia\source\repos\frmCorporation\CorporationProjeto\bin\Debug\CorporationProjeto.pdb
+C:\Users\julia\source\repos\frmCorporation\CorporationProjeto\obj\Debug\CorporationProjeto.csprojAssemblyReference.cache
+C:\Users\julia\source\repos\frmCorporation\CorporationProjeto\obj\Debug\CorporationProjeto.frmCadastro.resources
+C:\Users\julia\source\repos\frmCorporation\CorporationProjeto\obj\Debug\CorporationProjeto.frmAlterarExcluir.resources
+C:\Users\julia\source\repos\frmCorporation\CorporationProjeto\obj\Debug\CorporationProjeto.frmListar.resources
+C:\Users\julia\source\repos\frmCorporation\CorporationProjeto\obj\Debug\CorporationProjeto.Properties.Resources.resources
+C:\Users\julia\source\repos\frmCorporation\CorporationProjeto\obj\Debug\CorporationProjeto.csproj.GenerateResource.cache
+C:\Users\julia\source\repos\frmCorporation\CorporationProjeto\obj\Debug\CorporationProjeto.csproj.CoreCompileInputs.cache
+C:\Users\julia\source\repos\frmCorporation\CorporationProjeto\obj\Debug\CorporationProjeto.exe
+C:\Users\julia\source\repos\frmCorporation\CorporationProjeto\obj\Debug\CorporationProjeto.pdb
