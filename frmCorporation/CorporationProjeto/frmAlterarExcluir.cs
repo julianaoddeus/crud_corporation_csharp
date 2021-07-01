@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using MySql.Data.MySqlClient;
 
 namespace CorporationProjeto
 {
@@ -15,6 +16,11 @@ namespace CorporationProjeto
         public frmAlterarExcluir()
         {
             InitializeComponent();
+        }
+
+        private void frmAlterarExcluir_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

@@ -42,6 +42,7 @@
             this.btnNovoUsuario.TabIndex = 0;
             this.btnNovoUsuario.Text = "NOVO USUÁRIO";
             this.btnNovoUsuario.UseVisualStyleBackColor = true;
+            this.btnNovoUsuario.Click += new System.EventHandler(this.btnNovoUsuario_Click);
             // 
             // btnAlterarExcluir
             // 
@@ -51,14 +52,16 @@
             this.btnAlterarExcluir.TabIndex = 1;
             this.btnAlterarExcluir.Text = "ALTERAR / EXCLUIR";
             this.btnAlterarExcluir.UseVisualStyleBackColor = true;
+            this.btnAlterarExcluir.Click += new System.EventHandler(this.btnAlterarExcluir_Click);
             // 
             // gridListagem
             // 
             this.gridListagem.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.gridListagem.Location = new System.Drawing.Point(111, 158);
+            this.gridListagem.Location = new System.Drawing.Point(145, 157);
             this.gridListagem.Name = "gridListagem";
-            this.gridListagem.Size = new System.Drawing.Size(597, 118);
+            this.gridListagem.Size = new System.Drawing.Size(528, 118);
             this.gridListagem.TabIndex = 2;
+            this.gridListagem.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.gridListagem_CellContentClick);
             // 
             // frmListar
             // 

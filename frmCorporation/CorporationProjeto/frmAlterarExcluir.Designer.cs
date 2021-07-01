@@ -181,6 +181,7 @@
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Name = "frmAlterarExcluir";
             this.Text = "ALTERAR / EXCLUIR";
+            this.Load += new System.EventHandler(this.frmAlterarExcluir_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
